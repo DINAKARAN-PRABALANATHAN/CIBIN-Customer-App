@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="550dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="80dp"
+    android:layout_gravity="center"
+    app:cardUseCompatPadding="true">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/list_of_bin_bin_id_title"
+            android:layout_marginLeft="35sp"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="BIN ID :"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/list_of_bin_bin_id"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="BIN ID"
+            android:textSize="25sp"
+            android:layout_toRightOf="@+id/list_of_bin_bin_id_title"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/list_of_bin_area"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Area"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_bin_id"
+            android:background="@drawable/input_field" />
+
+        <TextView
+            android:id="@+id/list_of_bin_locality"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Locality"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_area"
+            android:background="@drawable/input_field" />
+
+        <TextView
+            android:id="@+id/list_of_bin_city"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="City"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_locality"
+            android:background="@drawable/input_field" />
+
+        <TextView
+            android:id="@+id/list_of_bin_load_type"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Load Type"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_city"
+            android:background="@drawable/input_field" />
+
+        <TextView
+            android:id="@+id/list_of_bin_collection_period"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Collection Period"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_load_type"
+            android:background="@drawable/input_field" />
+
+        <TextView
+            android:id="@+id/list_of_bin_lantitude"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Map Lantitude"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_collection_period"
+            android:background="@drawable/input_field" />
+        <TextView
+            android:id="@+id/list_of_bin_longitude"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Map Longitude"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_lantitude"
+            android:background="@drawable/input_field" />
+
+        <TextView
+            android:id="@+id/list_of_bin_verification_status"
+            android:layout_width="280dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="5dp"
+            android:text="Verification Status"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/list_of_bin_longitude"
+            android:background="@drawable/input_field" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

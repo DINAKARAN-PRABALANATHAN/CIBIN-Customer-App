@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/menu_bin_list"
+        android:title="BINS Near You"
+        android:icon="@drawable/bin_list"/>
+
+    <item
+        android:id="@+id/menu_about_us"
+        android:title="About Us"
+        android:icon="@drawable/about_us"/>
+
+    <item
+        android:id="@+id/menu_contact_support"
+        android:title="Contact Support"
+        android:icon="@drawable/contact_support"/>
+
+    <item
+        android:id="@+id/menu_terms_and_conditions"
+        android:title="Terms and Conditions"
+        android:icon="@drawable/terms_and_conditions"/>
+
+    <item
+        android:id="@+id/menu_version"
+        android:title="Version"
+        android:icon="@drawable/version"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"/>
+
+</menu>

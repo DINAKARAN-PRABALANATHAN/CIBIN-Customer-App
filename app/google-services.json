@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "687652275098",
+    "firebase_url": "https://cibin-enterprises-10fee.firebaseio.com",
+    "project_id": "cibin-enterprises-10fee",
+    "storage_bucket": "cibin-enterprises-10fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687652275098:android:630b93e8207f38199c3023",
+        "android_client_info": {
+          "package_name": "com.cibinenterprizes.cibinadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687652275098-3gl6dmumk3j1ht45n9osie9ej66kasbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cibinenterprizes.cibinadmin",
+            "certificate_hash": "d26cd27080b7c8f926b1b2fc4b8043d5bac1fcca"
+          }
+        },
+        {
+          "client_id": "687652275098-n9knff2a60gvpu1rliipebri1t3no6sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hZoRG5NU6rdrQdEna3zihnyyX7XrrAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687652275098-n9knff2a60gvpu1rliipebri1t3no6sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687652275098:android:d27b3348075392ed9c3023",
+        "android_client_info": {
+          "package_name": "com.cibinenterprizes.cibindrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687652275098-1aig4pbaea3gg6t4eemas8vq5ag75n69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cibinenterprizes.cibindrivers",
+            "certificate_hash": "e227045a42e69199f14458015225eb46dd07bdd6"
+          }
+        },
+        {
+          "client_id": "687652275098-n9knff2a60gvpu1rliipebri1t3no6sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hZoRG5NU6rdrQdEna3zihnyyX7XrrAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687652275098-n9knff2a60gvpu1rliipebri1t3no6sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687652275098:android:5bd0f7086c00413c9c3023",
+        "android_client_info": {
+          "package_name": "com.cibinenterprizes.cibinenterprises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687652275098-cl7id4dlei0oj7pn99o25btud7f64n1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cibinenterprizes.cibinenterprises",
+            "certificate_hash": "6392c251463893ef33dabfd176fe6b4b807f2968"
+          }
+        },
+        {
+          "client_id": "687652275098-n9knff2a60gvpu1rliipebri1t3no6sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hZoRG5NU6rdrQdEna3zihnyyX7XrrAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687652275098-n9knff2a60gvpu1rliipebri1t3no6sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

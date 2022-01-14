@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CIBIN ENTERPRISES</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string-array name="load_type">
+        <item>  Load type</item>
+        <item>  High</item>
+        <item>  Low</item>
+    </string-array>
+    <string-array name="collection_period">
+        <item>  Collection Period</item>
+        <item>  Daily</item>
+        <item>  Weekly</item>
+    </string-array>
+    <string-array name="district_list">
+        <item>  Districts List</item>
+        <item>  Tiruppur</item>
+        <item>  Erode</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
